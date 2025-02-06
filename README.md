@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For additional queries or support:
-- GitHub: [Abdul Malik](https://github.com/abdulmalik812)[Vaibhav Chaudhary](https://github.com/chvaibhav2003)
+- GitHub: [Abdul Malik](https://github.com/abdulmalik812)  [Vaibhav Chaudhary](https://github.com/chvaibhav2003)
 
 ## Future Improvements
 - Integration with external healthcare databases
