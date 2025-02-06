@@ -1,0 +1,5 @@
+{
+    "severe": ["convulsions", "not able to feed", "fast breathing", "grunting", "severe jaundice"],
+    "moderate": ["fever", "poor weight gain", "cough", "diarrhea"],
+    "mild": ["mild jaundice", "occasional cough", "normal crying"]
+}
