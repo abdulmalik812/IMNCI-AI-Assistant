@@ -1,0 +1,5 @@
+streamlit 
+whisper
+torch
+transformers
+gtts
